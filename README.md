@@ -9,7 +9,7 @@ I am Aamir Shaida, a backend developed who is passionate about coding and softwa
 
 ## 🚀 About Me
 I am a backend developer who has a strong interest in the programming language of python and I am currently teaching myself some Java. I have experience in Python via the Hyperion Dev Bootcamp which has allowed me to gain extensive knowledge and experience with the program, as well as learn about defensive programming, efficient and clear programming and collaboration on projects.
-My projects are available in my Captsone Projects Repository.
+My projects are available in my finalCapstone Repository.
 
 
 
