@@ -3,12 +3,12 @@
 
 Hello, world!
 
-I am Aamir Shaida, a backend developed who is passionate about coding and software development. Welcome to my GitHub where I share my projects and ideas.
+I am Aamir Shaida, a computer science student who is passionate about coding and software development. Welcome to my GitHub where I share my projects and ideas.
 
 
 
 ## 🚀 About Me
-I am a backend developer who has a strong interest in the programming language of python and I am currently teaching myself some Java. I have experience in Python via the Hyperion Dev Bootcamp which has allowed me to gain extensive knowledge and experience with the program, as well as learn about defensive programming, efficient and clear programming and collaboration on projects.
+I am a student studying Computer Science at Queen Mary's University of london, who has a strong interest in the programming language of python and I am currently teaching myself some Java. I have experience in Python via the Hyperion Dev Bootcamp which has allowed me to gain extensive knowledge and experience with the program, as well as learn about defensive programming, efficient and clear programming and collaboration on projects.
 My projects are available in my finalCapstone Repository.
 
 
