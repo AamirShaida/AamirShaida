@@ -8,7 +8,7 @@ I am Aamir Shaida, a computer science student who is passionate about coding and
 
 
 ## 🚀 About Me
-I am a student studying Computer Science at Queen Mary's University of london, who has a strong interest in the programming language of python and I am currently teaching myself some Java. I have experience in Python via the Hyperion Dev Bootcamp which has allowed me to gain extensive knowledge and experience with the program, as well as learn about defensive programming, efficient and clear programming and collaboration on projects.
+I am studying Computer Science at Queen Mary's University of london, who has a strong interest in the programming language of python and I am currently teaching myself some Java. I have experience in Python via the Hyperion Dev Bootcamp which has allowed me to gain extensive knowledge and experience with the program, as well as learn about defensive programming, efficient and clear programming and collaboration on projects.
 My projects are available in my finalCapstone Repository.
 
 
